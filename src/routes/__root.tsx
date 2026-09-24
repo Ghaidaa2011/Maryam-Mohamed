@@ -76,14 +76,14 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         name: "description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
+          "The wedding celebration of Maryam & Mohamed at Al Masa Hall, Green Valley, Minya El Qamh on October 6, 2026.",
       },
       { name: "author", content: "Ghaidaa" },
       { property: "og:title", content: "Maryam & Mohamed · October 6, 2026" },
       {
         property: "og:description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
+          "The wedding celebration of Maryam & Mohamed at Al Masa Hall, Green Valley, Minya El Qamh on October 6, 2026.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },

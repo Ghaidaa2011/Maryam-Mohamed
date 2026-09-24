@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
       {
         name: "description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
+          "The wedding celebration of Maryam & Mohamed at Al Masa Hall, Green Valley, Minya El Qamh on October 6, 2026.",
       },
     ],
     links: [
