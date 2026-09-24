@@ -14,11 +14,11 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "Maryam & Mohamed · July 10, 2026" },
+      { title: "Maryam & Mohamed · October 6, 2026" },
       {
         name: "description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at La Reine Hall, Cairo — July 10, 2026.",
+          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
       },
     ],
     links: [

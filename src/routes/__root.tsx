@@ -72,18 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Maryam & Mohamed · July 10, 2026" },
+      { title: "Maryam & Mohamed · October 6, 2026" },
       {
         name: "description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at La Reine Hall, Cairo — July 10, 2026.",
+          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
       },
       { name: "author", content: "Ghaidaa" },
-      { property: "og:title", content: "Maryam & Mohamed · July 10, 2026" },
+      { property: "og:title", content: "Maryam & Mohamed · October 6, 2026" },
       {
         property: "og:description",
         content:
-          "A luxury wedding invitation for the marriage of Maryam & Mohamed at La Reine Hall, Cairo — July 10, 2026.",
+          "A luxury wedding invitation for the marriage of Maryam & Mohamed at Diamond Hall, Cairo — October 6 , 2026.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },

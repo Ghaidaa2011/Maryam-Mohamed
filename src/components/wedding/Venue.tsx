@@ -25,7 +25,7 @@ export function Venue() {
           <div className="absolute bottom-6 left-6 right-6 flex items-end justify-between">
             <div className="text-primary-foreground">
               <p className="font-script text-xl">where it begins</p>
-              <p className="text-xs uppercase tracking-[0.4em]">Cairo, Egypt</p>
+              <p className="text-xs uppercase tracking-[0.4em]">Minya el-Qamh</p>
             </div>
           </div>
         </motion.div>
@@ -37,17 +37,17 @@ export function Venue() {
           transition={{ duration: 1, delay: 0.2 }}
         >
           <p className="text-xs uppercase tracking-[0.4em] text-rose-deep">The Venue</p>
-          <h2 className="mt-4 text-5xl text-primary">La Reine Hall</h2>
+          <h2 className="mt-4 text-5xl text-primary">Diamond Hall</h2>
           <p className="mt-6 leading-relaxed text-muted-foreground">
-            An elegant celebration venue in the heart of New Cairo. Join us for a magical evening
-            filled with love, music, and unforgettable memories.
+            Experience an unforgettable celebration at Al Masa Hall in Green Valley, Minya El Qamh.
+            We invite you to share a magical evening of love and joy with us.
           </p>
           <div className="mt-8 flex items-center gap-3 text-sm text-rose-deep">
             <MapPin className="h-4 w-4" />
-            <span>التجمع الخامس - محور المشير طنطاوي - دار ضباط الوقود - فندق راماچ</span>
+            <span>Minya El Qamh, Green Valley, Al Masa Hall</span>
           </div>
           <a
-            href="https://www.google.com/maps?q=30.022729873657227,31.363452911376953&z=17&hl=en"
+            href="https://www.google.com/maps/place//data=!4m2!3m1!1s0x14f7e50056731443:0xbec2385b839f37da?entry=gemini&utm_source=gemini&utm_campaign=gem-default"
             target="_blank"
             rel="noreferrer"
             className="glass glow-hover mt-8 inline-flex items-center gap-3 rounded-full px-7 py-4 text-sm uppercase tracking-[0.3em] text-primary"
